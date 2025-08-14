@@ -1,5 +1,5 @@
 # energy-consumption-forecasting
-This project focuses on forecasting energy consumption by comparing the performance of traditional time series models with machine learning approaches (Tree based models, XGBoost). The objective is to accurately predict future demand to support grid management and load balancing decisions.
+This project focuses on forecasting energy consumption by comparing the performance of traditional time series models with machine learning approaches (Tree based models, XGBoost). The objective is to predict future demand to support grid management and load balancing decisions.
 
 ## Workflow
 1. *Data Cleaning & EDA*
