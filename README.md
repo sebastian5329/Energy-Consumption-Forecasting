@@ -5,12 +5,11 @@ This project focuses on forecasting energy consumption by comparing the performa
 1. *Data Cleaning & EDA*
    - Removed duplicates and missing values.
    - Checked skewness and checked outliers using the IQR and capped them using Winsorization method.
-   - Converted the date column to DateTime and set it as the index.
+   - Visualized trends and seasonality using STL decomposition.
+   - Seasonal subseries plots by month and hour.
    
 2. *Feature Engineering*
    - Extracted Year, Month, Week, Day, Hour, etc.
-   - Visualized trends and seasonality using STL decomposition.
-   - Seasonal subseries plots by month and hour.
 
 3. *Stationarity & Time Series Models*
    - Checked stationarity using *ADF* and *KPSS* tests.
